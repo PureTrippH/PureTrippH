@@ -14,6 +14,10 @@ Contact me at Gem#2003 on Discord if you really want me to contribute to your re
 
 Here are some ideas to get you started:
 
+## My Activity
+
+[![PureTrippH's Stats](https://github-readme-stats.vercel.app/api/wakatime?username=@Gem)]
+
 
 
 - 👯 I’m looking to collaborate on ...
