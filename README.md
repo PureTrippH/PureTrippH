@@ -12,7 +12,7 @@ Contact me at Gem#2003 on Discord if you really want me to contribute to your re
 
 ## My Activity
 
-[![PureTrippH's Stats](https://github-readme-stats.vercel.app/api/wakatime?username=@Gem)]
+![PureTrippH's Stats](https://github-readme-stats.vercel.app/api/wakatime?username=@Gem)
 
 <!--
 **PureTrippH/PureTrippH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
