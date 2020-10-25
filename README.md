@@ -5,7 +5,8 @@
 - 🌱 I’m currently learning: Rust
 
 ## Current Projects
-- Laela's Watchat
+- Watchat
+- Chrome Discord Embed
 
 
 ### Want me to Contribute?
