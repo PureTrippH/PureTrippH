@@ -5,9 +5,7 @@
 - 🌱 I’m currently learning: Rust
 
 ## Current Projects
-- Watchat
-- Chrome Discord Embed
-
+- WatchCat
 
 ### Want me to Contribute?
 Contact me at Gem#2003 on Discord if you really want me to contribute to your repo.
