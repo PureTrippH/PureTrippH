@@ -7,7 +7,12 @@
 ## Current Projects
 - WatchCat
 
-### Want me to Contribute?
+### What I Work in:
+- Javascript
+- C++ 
+- C#: With Unity
+
+### 📫 Want me to Contribute?
 Contact me at Gem#2003 on Discord if you really want me to contribute to your repo.
 
 ## My Activity This Week
