@@ -6,6 +6,7 @@
 
 ## Current Projects
 - WatchCat
+- Schedule App (Unnamed) 
 
 ### What I Work in:
 - Javascript
