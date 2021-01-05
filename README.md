@@ -2,7 +2,7 @@
 # Im Just Some Loser on the Internet with a Lot of Free Time.
 ### That Does His Programming on the Weekends
 - 😄 Pronouns: He/Him
-- 🌱 I’m currently learning: Rust
+- 🌱 I’m currently learning: Idk tbh
 
 ## Current Projects
 - WatchCat
