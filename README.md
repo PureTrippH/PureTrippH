@@ -1,6 +1,5 @@
 ### Who Am I?
 # Im Just Some Loser on the Internet with a Lot of Free Time.
-###### (Also Shit at CSS)
 ### That Does His Programming on the Weekends
 - 😄 Pronouns: He/Him
 - 🌱 I’m currently learning: Idk tbh
@@ -13,6 +12,7 @@
 - Javascript
 - C++ 
 - C#: With Unity
+###### (Also horrible at CSS)
 
 ### 📫 Want me to Contribute?
 Contact me at Gem#2003 on Discord if you really want me to contribute to your repo.
