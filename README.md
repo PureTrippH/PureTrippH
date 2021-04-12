@@ -6,11 +6,12 @@
 
 ## Current Projects
 - WatchCat
-- Schedule App (Unnamed) 
+- Dolphin
 
 ### What I Work in:
-- Javascript
+- Javascript (Any Express, React, etc)
 - C++ 
+- LUA
 - C#: With Unity
 ###### (Also horrible at CSS)
 
