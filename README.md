@@ -1,8 +1,9 @@
 ### Who Am I?
 # Im Just Some Loser on the Internet with a Lot of Free Time.
-### That Does His Programming on the Weekends
+### PSA: CSS IS HELL!
 - 😄 Pronouns: He/Him
-- 🌱 I’m currently learning: Idk tbh
+- 🌱 I’m currently learning: Better CSS Styling :/
+
 
 ## Current Projects
 - WatchCat
