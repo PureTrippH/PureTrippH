@@ -6,8 +6,7 @@
 
 
 ## Current Projects
-- WatchCat
-- Dolphin
+- College Applications
 
 ### What I Work in:
 - Javascript (Any Express, React, etc)
@@ -18,6 +17,8 @@
 
 ### 📫 Want me to Contribute?
 Contact me at Gem#2003 on Discord if you really want me to contribute to your repo.
+
+(DO NOT CONTACT ATM. Currently applying for College)
 
 ## My Activity This Week
 
