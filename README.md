@@ -1,7 +1,7 @@
 ### Who Am I?
 # Im Just Some Loser on the Internet with a Lot of Free Time.
 ### PSA: CSS IS HELL!
-- 😄 Pronouns: He/Him
+- 😄 Pronouns: They/Them
 - 🌱 I’m currently learning: Better CSS Styling :/
 
 
