@@ -1,12 +1,7 @@
 #  I am Tripp.  ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=PureTrippH)
 You might know me from Discord, maybe some online forms, applications, but wherever You are from, I welcome you to my page!
-
- 
-
-
-
+- Im From: Virginia Beach
 - 😄 Pronouns: They/Them
-- 🌱 I’m currently learning: Better CSS Styling :/
 
 
 # 🏵 Current Projects
