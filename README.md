@@ -12,10 +12,10 @@ You might know me from Discord, maybe some online forms, applications, but where
 ![PureTrippH's Stats](https://github-readme-stats.vercel.app/api/wakatime?username=@Gem)
 
 ## What I work In
-- <a href="mailto:realtripphanley@gmail.com">![YourEmail@gmail.com](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)</a> 
-- <a href="mailto:realtripphanley@gmail.com">![YourEmail@gmail.com](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)</a> 
-- <a href="mailto:realtripphanley@gmail.com">![YourEmail@gmail.com](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)</a> 
-- <a href="mailto:realtripphanley@gmail.com">![YourEmail@gmail.com](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)</a> 
+- <a>(https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)</a> 
+- <a>(https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)</a> 
+- <a>(https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)</a> 
+- <a>(https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)</a> 
 
 
 # 📫 Contact Me!
