@@ -3,10 +3,12 @@ You might know me from Discord, maybe some online forms, applications, but where
 - Im From: Virginia Beach
 - 😄 Pronouns: They/Them
 
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+
 
 # 🏵 Current Projects
-- Reworking Apps
-- College Applications 
+- CS 1331
+- MAL Rework Clone
 
 ## My Stats This Week:
 ![PureTrippH's Stats](https://github-readme-stats.vercel.app/api/wakatime?username=@Gem)
