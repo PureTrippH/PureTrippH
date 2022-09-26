@@ -5,12 +5,14 @@ You might know me from Discord, maybe some online forms, LinkedIn, Georgia Teach
 - Im From: Virginia Beach
 - Current Residence: Atlanta, GA
 
+## My Stats This Week:
+![PureTrippH's Stats](https://github-readme-stats.vercel.app/api/wakatime?username=@Gem)
+
 # 🏵 Current Projects
 - CS 1331
 - MAL Rework Clone
 
-## My Stats This Week:
-![PureTrippH's Stats](https://github-readme-stats.vercel.app/api/wakatime?username=@Gem)
+
 
 ## What I work In
 - <a href="mailto:realtripphanley@gmail.com">![realtripphanley@gmail.com](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)</a> 
