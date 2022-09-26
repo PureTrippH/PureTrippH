@@ -1,5 +1,5 @@
 #  I am Tripp.  ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=PureTrippH)
-## Pronouns: (They/Them)
+	``` Pronouns: (They/Them) ```
 You might know me from Discord, maybe some online forms, LinkedIn, Georgia Teach, but wherever You are from, I welcome you to my Page and Professional Portfolio!
 - Im From: Virginia Beach
 - Current Residence: Atlanta, GA
