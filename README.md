@@ -29,8 +29,8 @@ You might know me from Discord, maybe some online forms, LinkedIn, Georgia Teach
 ![PureTrippH's Stats](https://github-readme-stats.vercel.app/api/wakatime?username=@Gem)
 
 ### 🏵 Current Projects
-- CS 1331
-- MAL Rework Clone
+- CS 1332
+- Vassals
 
 # 📫 Contact Me!
  
