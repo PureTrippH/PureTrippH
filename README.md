@@ -6,7 +6,7 @@ You might know me from Discord, maybe some online forms, LinkedIn, Georgia Teach
 - Current Residence: Atlanta, GA
 
 # Show me them Programmin' Stats
-
+...Oh Lord Here We Go...
 ## What I work in:
 | Programming Languages  | Scripting Languages |
 | ------------- | ------------- |
