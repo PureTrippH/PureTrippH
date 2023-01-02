@@ -1,4 +1,4 @@
-#  I am Tripp.  ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=PureTrippH)
+#  I am Tripp.
 **Pronouns: (They/Them)**
 
 You might know me from Discord, maybe some online forms, LinkedIn, Georgia Teach, but wherever You are from, I welcome you to my Page and Professional Portfolio!
