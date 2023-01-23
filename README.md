@@ -33,11 +33,10 @@ You might know me from Discord, maybe some online forms, LinkedIn, Georgia Teach
 - Vassals
 
 # 📫 Contact Me!
- 
- <a href="mailto:realtripphanley@gmail.com">![realtripphanley@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> 
-<a href="https://linkedin.com/in/tripphanley" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tripphanley" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/puretripph" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="puretripph" height="30" width="40" /></a>
-<a href="https://discord.gg/Gem#5646" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Gem#5646" height="30" width="40" /></a>
+| Tools |
+| ------------- | 
+ |  <a href="mailto:realtripphanley@gmail.com">![realtripphanley@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="https://linkedin.com/in/tripphanley" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tripphanley" height="30" width="40" /></a> <a href="https://www.leetcode.com/puretripph" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="puretripph" height="30" width="40" /></a> |
+
 <!--
 **PureTrippH/PureTrippH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
