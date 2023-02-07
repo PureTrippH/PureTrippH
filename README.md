@@ -31,6 +31,7 @@ You might know me from Discord, maybe some online forms, LinkedIn, Georgia Teach
 ### 🏵 Current Projects
 - CS 1332
 - Vassals
+- Nekton @ GATech
 
 # 📫 Contact Me!
 | Tools |
