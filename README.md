@@ -1,9 +1,10 @@
 #  I am Tripp.
 **Pronouns: (They/Them)**
 
-You might know me from Discord, maybe some online forms, LinkedIn, Georgia Teach, but wherever You are from, I welcome you to my Page and Professional Portfolio!
+You might know me from Discord, maybe some online forms, LinkedIn, Georgia Tech, but wherever You are from, I welcome you to my Page and Professional Portfolio!
 - Im From: Virginia Beach
 - Current Residence: Atlanta, GA
+- Current Job: CS 1332 Data Structures & Algorithms Teaching Assistant
 
 # Show me them Programmin' Stats
 ...Oh Lord Here We Go...
