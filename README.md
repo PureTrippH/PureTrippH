@@ -1,10 +1,10 @@
 #  I am Tripp.
 **Pronouns: (They/Them)**
 
-You might know me from Discord, maybe some online forms, LinkedIn, Georgia Tech, but wherever You are from, I welcome you to my Page and Professional Portfolio!
+You might know me from Discord, maybe some online forums, LinkedIn, Georgia Tech, but wherever You are from, I welcome you to my Page and Professional Portfolio!
 - Im From: Virginia Beach
 - Current Residence: Atlanta, GA
-- Current Job: CS 1332 Data Structures & Algorithms Teaching Assistant
+- Current Job: CS 1332 Data Structures & Algorithms Teaching Assistant & Student Researcher
 
 # Show me them Programmin' Stats
 ...Oh Lord Here We Go...
@@ -32,7 +32,8 @@ You might know me from Discord, maybe some online forms, LinkedIn, Georgia Tech,
 ### 🏵 Current Projects
 - CS 1332
 - Vassals
-- Nekton @ GATech
+- Nekton @ GATech (Github Enterprise Proj)
+- Dungeon Crawler (Currently Private)
 
 # 📫 Contact Me!
 | Tools |
