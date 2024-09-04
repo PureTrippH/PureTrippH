@@ -30,10 +30,10 @@ You might know me from Discord, maybe some online forums, LinkedIn, Georgia Tech
 ![PureTrippH's Stats](https://github-readme-stats.vercel.app/api/wakatime?username=@Gem)
 
 ### 🏵 Current Projects
-- CS 1332
+- CS 1332 Vistool
+- ML & AI @ GT
+- CS 3651
 - Vassals
-- Nekton @ GATech (Github Enterprise Proj)
-- Dungeon Crawler (Currently Private)
 
 # 📫 Contact Me!
 | Tools |
