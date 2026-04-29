@@ -3,6 +3,8 @@
 
 I reside in *Atlanta, GA* and do work as a Masters student for the Animal Lab at Georgia Tech. For research interests, I am mainly involved in the field of Animal-Computer Interaction (ACI) along with some adjacency to the Computer Vision Community. Previously, most of my experience came from robotics work such as some analyses on inversion in HRI Literature or controls for underwater ROVs.
 
+As I primarily do work utilizing confidential, identifying data, this github is primarily empty of recent activities.
+
 ## Current Work:
 I am currently working on a model titled Deep-Sea: A Self-Supervised Pipeline for African Penguin Behavioral Analysis. This is an intersection between CV and ACI on associating vocalization with colony-wide behaviors in African Penguins. This is primarily to benefit the penguins to promote swimming.
 
