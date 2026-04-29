@@ -9,8 +9,8 @@ I am currently working on a model titled Deep-Sea: A Self-Supervised Pipeline fo
 Outside of that, you can find me trying to create tools to quickly iterate between build ideas in MOBAs for fun.
 
 # 📫 Contact Me!
-Email: (tripph@gatech.edu)[mailto:tripph@gatech.edu]
-LinkedIn: (Tripp Hanley)[https://www.linkedin.com/in/tripphanley/]
+- Email: [tripph@gatech.edu](mailto:tripph@gatech.edu)
+- LinkedIn: [Tripp Hanley](https://www.linkedin.com/in/tripphanley/)
 
 <!--
 **PureTrippH/PureTrippH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
